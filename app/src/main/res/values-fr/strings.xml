@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Unam App</string>
+    <string name="greeting">Bienvenue</string>
+    <string name="login_button">Entrer</string>
+</resources>

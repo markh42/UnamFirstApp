@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Unam App</string>
+    <string name="greeting">Bienvenido</string>
+    <string name="login_button">Entrar</string>
+</resources>
